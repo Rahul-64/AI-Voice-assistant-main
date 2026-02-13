@@ -5,3 +5,8 @@ python-dotenv
 pydantic
 streamlit
 audio-recorder-streamlit
+
+# Optional dependencies for additional features
+# For audio processing
+librosa
+soundfile
