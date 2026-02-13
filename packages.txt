@@ -1,6 +1,0 @@
-# System dependencies for Streamlit Cloud / Render
-# These are installed automatically on deployment
-
-# Audio libraries (if needed for voice features)
-portaudio19-dev
-python3-pyaudio
