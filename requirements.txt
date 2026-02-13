@@ -1,0 +1,28 @@
+# Core dependencies
+litellm
+deepgram-sdk
+python-dotenv
+pydantic
+
+# Web framework
+streamlit
+
+# Optional: For CLI version only
+pygame
+pyaudio
+colorama
+pynput
+
+# Optional: Advanced features (disabled by default)
+# langchain-groq 
+# langchain_google_genai
+# langchain_chroma
+# chromadb
+# Pillow
+# pyperclip
+# instructor 
+# tavily-python
+# google-auth
+# google-auth-oauthlib
+# google-auth-httplib2
+# google-api-python-client
