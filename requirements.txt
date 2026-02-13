@@ -1,12 +1,10 @@
-# Core dependencies for web deployment
+# Core dependencies
 litellm
 deepgram-sdk
 python-dotenv
 pydantic
-streamlit
-audio-recorder-streamlit
 
-# Optional dependencies for additional features
-# For audio processing
-librosa
-soundfile
+# Web server
+fastapi
+uvicorn[standard]
+python-multipartgunicorn
