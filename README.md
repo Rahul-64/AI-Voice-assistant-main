@@ -1,4 +1,4 @@
-# 🔥 Rude AI Voice Assistant (Web Edition)
+# 🔥 Rude AI Voice Assistant 
 
 An advanced, rude, and sarcastic AI voice assistant that runs entirely in the browser. Features real-time voice interaction, interruption handling, and a premium dark UI.
 
